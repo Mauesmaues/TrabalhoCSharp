@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 - Marcos Vinicius Maues das Neves Brandão
-- Gabriel Laureano
+- Gabriel Laureano Soares da Silva
 - Vinicius Mulling
 
 ## Questões Resolvidas
